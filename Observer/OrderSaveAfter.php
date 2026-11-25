@@ -11,7 +11,7 @@ use Magento\Sales\Model\Order\Status\History;
 use Magento\Store\Model\ScopeInterface as SS;
 use Magento\Store\Model\Store;
 use Zend_Http_Client as Z;
-// 2018-08-11 Dmitry Fedyuk https://www.upwork.com/fl/mage2pro
+// 2018-08-11 Dmitry Fedyuk https://github.com/dmitrii-fediuk
 final class OrderSaveAfter implements ObserverInterface {
 	/**
 	 * 2018-08-11

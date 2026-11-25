@@ -15,7 +15,7 @@ use Magento\Sales\Api\Data\OrderItemInterface as IOI;
 use Magento\Sales\Model\Order as O;
 use Magento\Sales\Model\Order\Address as OA;
 use Magento\Sales\Model\Order\Item as OI;
-// 2018-08-11 Dmitry Fedyuk https://www.upwork.com/fl/mage2pro
+// 2018-08-11 Dmitry Fedyuk https://github.com/dmitrii-fediuk
 final class Payload {
 	/**
 	 * 2018-08-11

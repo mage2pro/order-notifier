@@ -8,7 +8,7 @@
 	,"authors": [{
 		"name": "Dmitry Fedyuk"
 		,"email": "admin@mage2.pro"
-		,"homepage": "https://www.upwork.com/fl/mage2pro"
+		,"homepage": "https://github.com/dmitrii-fediuk"
 		,"role": "Developer"
 	}]
 	,"autoload": {"files": ["registration.php"], "psr-4": {"Dfe\\OrderNotifier\\": ""}}
